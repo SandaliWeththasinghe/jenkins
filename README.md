@@ -1,4 +1,5 @@
 # Repo1
 
-Weththasinghe Veebaddage Sandali Anuththara Weththasinghe  <br>
-W.V.S.A.Weththasinghe
+Full Name: Weththasinghe Veebaddage Sandali Anuththara Weththasinghe <br>
+Name With Initials: W.V.S.A.Weththasinghe <br>
+Student Id No: SE/2016/051
